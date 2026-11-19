@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+type: software
+title: "ilostat: ILOSTAT data and metadata client for Stata"
+authors:
+  - family-names: Bescond
+    given-names: David
+    affiliation: "International Labour Organization, Department of Statistics"
+repository-code: "https://github.com/ilostat/stilostat"
+version: "0.9.0-dev"

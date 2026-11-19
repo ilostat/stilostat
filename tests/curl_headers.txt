@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+server: nginx/1.21.5
+date: Wed, 18 Nov 2026 17:15:56 GMT
+content-type: application/octet-stream
+content-length: 128271
+content-disposition: attachment; filename=EMP_TEMP_SEX_AGE_NB_A-20261118T1815.dta
+x-ilostat-last-update: 12/11/2026 07:08:07
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, OPTIONS
+access-control-allow-headers: Origin, Content-Type, Accept, Authorization
+access-control-allow-credentials: true
+accept-ranges: bytes
+strict-transport-security: max-age=31536000
+set-cookie: intra-backend-https=srv-obsidian; path=/; HttpOnly; Secure
+

@@ -1,0 +1,6 @@
+v 3
+d ILOSTAT: native Stata client for ILOSTAT statistics and metadata
+d Author: David Bescond; ILO Department of Statistics
+d Requires Stata 16 or newer; internet connection
+f ilostat.ado
+f ilostat.sthlp

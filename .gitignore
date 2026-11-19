@@ -1,0 +1,12 @@
+# Stata and local development outputs
+*.log
+*.smcl
+*.dta
+*.gph
+*.tmp
+*.bak
+*.swp
+*.zip
+.vscode/
+.Rproj.user/
+__pycache__/

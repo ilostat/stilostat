@@ -1,12 +1,25 @@
-# Stata and local development outputs
+# Stata generated files
 *.log
 *.smcl
-*.dta
 *.gph
 *.tmp
 *.bak
 *.swp
+
+# Generated Stata datasets
+*.dta
+
+# Generated archives
 *.zip
+
+# Local development scripts
+stilostat_test*.do
+
+# IDE and development environments
 .vscode/
 .Rproj.user/
 __pycache__/
+
+# Operating-system files
+Thumbs.db
+.DS_Store

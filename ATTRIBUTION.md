@@ -1,12 +1,15 @@
-# Attribution (publication review required)
+# Authorship, copyright and licensing
 
-- **Software author:** David Bescond
+- **Software:** `stilostat` (Stata command `ilostat`)
+- **Author:** David Bescond
+- **Maintainer:** David Bescond (contact details to be confirmed for SSC)
 - **Affiliation:** International Labour Organization (ILO), Department of Statistics / ILOSTAT
-- **Project:** `stilostat` (Stata command `ilostat`)
+- **Proposed software copyright:** Copyright (c) 2026, International Labour Organization
+- **Software license:** BSD 2-Clause License (`BSD-2-Clause`); see `LICENSE`
+- **Funding:** International Labour Organization (proposed institutional attribution; confirm)
+- **Repository:** https://github.com/ilostat/stilostat
 - **Data provider:** International Labour Organization, ILOSTAT
-- **Maintainer:** David Bescond (proposed; confirm contact address for SSC)
-- **Copyright holder:** International Labour Organization (proposed; confirm)
-- **Funding:** ILO (proposed; confirm exact institutional funding statement)
-- **License:** pending institutional confirmation; do not submit to SSC without approved license.
 
-These roles are not interchangeable. The API client identifier `channel=ilostat-stata` does not identify end users.
+The BSD 2-Clause License applies to the **software**, not automatically to the statistical data retrieved through the ILOSTAT API. Data usage is subject to the applicable ILOSTAT data terms and any exceptions.
+
+**Publication review:** Confirm institutional authority for the ILO copyright notice, licensing, and funding statement before final v1.0.0 / SSC submission.

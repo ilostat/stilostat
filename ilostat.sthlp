@@ -78,4 +78,4 @@ David Bescond, International Labour Organization (ILO), Department of Statistics
 Project: {browse "https://github.com/ilostat/stilostat"}{p_end}
 
 {pstd}
-Data: International Labour Organization, ILOSTAT. Institutional copyright, licensing and funding must be confirmed before SSC submission.{p_end}
+Software: BSD 2-Clause License (BSD-2-Clause). Proposed copyright (c) 2026 International Labour Organization. See LICENSE and ATTRIBUTION.md in the project repository. ILOSTAT data have separate usage terms. Institutional authorization must be confirmed before SSC submission.{p_end}

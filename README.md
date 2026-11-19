@@ -43,7 +43,7 @@ Run `do "H:/_Sys/packages/stilostat/tests/release_smoke.do"` from Stata after in
 
 ## Attribution and licensing
 
-Author: David Bescond; affiliation: International Labour Organization (ILO), Department of Statistics / ILOSTAT. **Institutional copyright holder, funding attribution and licensing must be approved before public release.** See `ATTRIBUTION.md` and `CITATION.cff`. The draft LICENSE is intentionally not included until approved.
+Author: David Bescond; affiliation: International Labour Organization (ILO), Department of Statistics / ILOSTAT. Software license: **BSD-2-Clause** (see `LICENSE`), following the Rilostat and pyilostat licensing approach. Proposed copyright notice: © 2026 International Labour Organization. Author: David Bescond. Institutional authorization for the copyright and licensing statement must be confirmed before final publication. The software license does not determine the licensing terms of data retrieved from ILOSTAT. See `ATTRIBUTION.md` and `CITATION.cff`.
 
 ## SSC publication
 

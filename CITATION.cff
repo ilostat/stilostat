@@ -7,4 +7,5 @@ authors:
     given-names: David
     affiliation: "International Labour Organization, Department of Statistics"
 repository-code: "https://github.com/ilostat/stilostat"
-version: "0.9.0-dev"
+license: BSD-2-Clause
+version: "0.9.2-rc"

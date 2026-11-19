@@ -1,12 +1,12 @@
 v 3
 d ILOSTAT: native Stata client for ILOSTAT statistics and metadata
-d Author: David Bescond
-d Affiliation: International Labour Organization (ILO), Department of Statistics
-d Requires Stata 16 or newer and an internet connection
-d Repository: https://github.com/ilostat/stilostat
+d Author: David Bescond; International Labour Organization, Department of Statistics
+d Software license: BSD-2-Clause; copyright (c) 2026 International Labour Organization
+d Requires Stata 16 or newer; internet connection
 f ilostat.ado
 f ilostat.sthlp
 f ilostat_toc.sthlp
 f ilostat_metadata.sthlp
 f ilostat_datasetdic.sthlp
 f ilostat_info.sthlp
+f LICENSE

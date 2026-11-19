@@ -1,4 +1,4 @@
-*! ilostat 0.9.2-rc 19nov2026
+*! ilostat 1.0.0 19nov2026
 program define ilostat
     version 16.0
     gettoken subcmd 0 : 0, parse(" ,")
@@ -115,7 +115,7 @@ program define ilostat_datasetdic
     char _dta[ilostat_id] "`id'"
     char _dta[ilostat_segment] "`route'"
     char _dta[ilostat_lang] "`language'"
-    char _dta[ilostat_version] "0.9.2-rc"
+	char _dta[ilostat_version] "1.0.0"
     char _dta[ilostat_retrieved] "`c(current_date)' `c(current_time)'"
     di as result "ILOSTAT: dataset dictionary `id' / `dimension' contains " %12.0fc _N " codes"
 end
